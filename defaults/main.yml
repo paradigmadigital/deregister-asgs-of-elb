@@ -1,0 +1,5 @@
+---
+# defaults file for deregister-asgs-of-elb
+elb:
+  name   :
+  region :
